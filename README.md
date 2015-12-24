@@ -1,5 +1,8 @@
 # atom-language-xtpl
 
+[![apm](https://img.shields.io/apm/v/atom-language-xtpl.svg)]()
+[![apm](https://img.shields.io/apm/dm/atom-language-xtpl.svg)](https://atom.io/packages/atom-language-xtpl)
+
 XTemplate support in Atom
 
 ## Installation
